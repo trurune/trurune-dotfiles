@@ -11,7 +11,7 @@
 
 set $mod Mod4
 
-exec wallset -V /home/alex/Wallpapers/wallpaper.mp4
+exec wallset -V ~/Wallpapers/wallpaper.mp4
 
 gaps inner 20
 
